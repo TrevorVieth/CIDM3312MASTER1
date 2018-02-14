@@ -1,0 +1,12 @@
+@{
+    string secret = "Don't tell anyone";
+    ViewData["Title"] = "Notes";
+}
+
+<h2>@ViewData["MemoTitle"]</h2>
+
+<p>
+    The Memo is: @ViewData["MemoMessage"]
+    <br>
+    The secret is: @secret
+</p>

@@ -1,0 +1,10 @@
+C:\CIDM3312\ViethFreemanChapterTwo\bin\Debug\netcoreapp2.0\ViethFreemanChapterTwo.deps.json
+C:\CIDM3312\ViethFreemanChapterTwo\bin\Debug\netcoreapp2.0\ViethFreemanChapterTwo.runtimeconfig.json
+C:\CIDM3312\ViethFreemanChapterTwo\bin\Debug\netcoreapp2.0\ViethFreemanChapterTwo.runtimeconfig.dev.json
+C:\CIDM3312\ViethFreemanChapterTwo\bin\Debug\netcoreapp2.0\ViethFreemanChapterTwo.dll
+C:\CIDM3312\ViethFreemanChapterTwo\bin\Debug\netcoreapp2.0\ViethFreemanChapterTwo.pdb
+C:\CIDM3312\ViethFreemanChapterTwo\obj\Debug\netcoreapp2.0\ViethFreemanChapterTwo.csproj.CoreCompileInputs.cache
+C:\CIDM3312\ViethFreemanChapterTwo\obj\Debug\netcoreapp2.0\ViethFreemanChapterTwo.AssemblyInfoInputs.cache
+C:\CIDM3312\ViethFreemanChapterTwo\obj\Debug\netcoreapp2.0\ViethFreemanChapterTwo.AssemblyInfo.cs
+C:\CIDM3312\ViethFreemanChapterTwo\obj\Debug\netcoreapp2.0\ViethFreemanChapterTwo.dll
+C:\CIDM3312\ViethFreemanChapterTwo\obj\Debug\netcoreapp2.0\ViethFreemanChapterTwo.pdb
