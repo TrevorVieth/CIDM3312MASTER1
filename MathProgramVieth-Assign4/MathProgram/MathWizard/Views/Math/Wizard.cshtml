@@ -1,0 +1,87 @@
+@model MathOperation
+@{
+  ViewData["Title"] = "Math Input Form";
+}
+<div class="container">
+  <div class="row">
+    <!--<h2>Crop</h2>-->
+    <form class="form-horizontal" 
+          asp-action="DoCalculation"
+          method="POST"
+          role="form">
+      <fieldset>
+        <!-- Form Name -->
+        <legend>Math Wizard</legend> 
+
+        <input type="hidden" asp-for="Result" value="0">
+        
+        <!-- Text input-->
+        
+        <div class="control-group">
+          <label class="control-label"
+                 for="textinput">Left Operand</label>
+          <div class="controls">
+            <input class="input-xlarge"
+                   asp-for="LeftOperand"
+                   id="textinput"
+                   name="textinput"
+                   placeholder="Left Operand"
+                   required=""
+                   type="number">
+          </div>
+        </div>
+        
+        <!-- Select Basic -->
+        <div class="control-group">
+          <label class="control-label"
+                 for="selectbasic">Arithmetic Operation</label>
+          <div class="controls">
+            <select class="input-medium"
+                  id="selectbasic"
+                  name="selectbasic"
+                  asp-for="Operator">
+              <option>
+                Add
+              </option>
+              <option>
+                Substract
+              </option>
+              <option>
+                Multiply
+              </option>
+              <option>
+                Divide
+              </option>
+              <option>
+                Modulus
+              </option>
+            </select>
+          </div>
+        </div>
+        
+        <!-- Text input-->
+        <div class="control-group">
+          <label class="control-label"
+                 for="textinput">Right Operand</label>
+          <div class="controls">
+            <input class="input-xlarge"
+                   asp-for="RightOperand"
+                   id="textinput"
+                   name="textinput"
+                   placeholder="Right Operand"
+                   required=""
+                   type="number">
+          </div>
+        </div>
+        
+        <!-- Button -->
+        <div class="control-group">
+          <div class="controls">
+            <button class="btn btn-default" 
+                    type="submit">Submit</button>
+          </div>
+        </div>
+      </fieldset>
+    </form>
+  </div>
+</div>

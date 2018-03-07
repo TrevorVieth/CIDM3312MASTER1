@@ -1,0 +1,10 @@
+C:\CIDM3312\MathPostWizardVieth\bin\Debug\netcoreapp2.0\MathPostWizardVieth.deps.json
+C:\CIDM3312\MathPostWizardVieth\bin\Debug\netcoreapp2.0\MathPostWizardVieth.runtimeconfig.json
+C:\CIDM3312\MathPostWizardVieth\bin\Debug\netcoreapp2.0\MathPostWizardVieth.runtimeconfig.dev.json
+C:\CIDM3312\MathPostWizardVieth\bin\Debug\netcoreapp2.0\MathPostWizardVieth.dll
+C:\CIDM3312\MathPostWizardVieth\bin\Debug\netcoreapp2.0\MathPostWizardVieth.pdb
+C:\CIDM3312\MathPostWizardVieth\obj\Debug\netcoreapp2.0\MathPostWizardVieth.csproj.CoreCompileInputs.cache
+C:\CIDM3312\MathPostWizardVieth\obj\Debug\netcoreapp2.0\MathPostWizardVieth.AssemblyInfoInputs.cache
+C:\CIDM3312\MathPostWizardVieth\obj\Debug\netcoreapp2.0\MathPostWizardVieth.AssemblyInfo.cs
+C:\CIDM3312\MathPostWizardVieth\obj\Debug\netcoreapp2.0\MathPostWizardVieth.dll
+C:\CIDM3312\MathPostWizardVieth\obj\Debug\netcoreapp2.0\MathPostWizardVieth.pdb
