@@ -1,0 +1,10 @@
+C:\Users\Trevor\Desktop\WT stuff\CIDM 3312-01\NickNameGeneratorVieth\bin\Debug\netcoreapp2.0\NickNameGeneratorVieth.deps.json
+C:\Users\Trevor\Desktop\WT stuff\CIDM 3312-01\NickNameGeneratorVieth\bin\Debug\netcoreapp2.0\NickNameGeneratorVieth.runtimeconfig.json
+C:\Users\Trevor\Desktop\WT stuff\CIDM 3312-01\NickNameGeneratorVieth\bin\Debug\netcoreapp2.0\NickNameGeneratorVieth.runtimeconfig.dev.json
+C:\Users\Trevor\Desktop\WT stuff\CIDM 3312-01\NickNameGeneratorVieth\bin\Debug\netcoreapp2.0\NickNameGeneratorVieth.dll
+C:\Users\Trevor\Desktop\WT stuff\CIDM 3312-01\NickNameGeneratorVieth\bin\Debug\netcoreapp2.0\NickNameGeneratorVieth.pdb
+C:\Users\Trevor\Desktop\WT stuff\CIDM 3312-01\NickNameGeneratorVieth\obj\Debug\netcoreapp2.0\NickNameGeneratorVieth.csproj.CoreCompileInputs.cache
+C:\Users\Trevor\Desktop\WT stuff\CIDM 3312-01\NickNameGeneratorVieth\obj\Debug\netcoreapp2.0\NickNameGeneratorVieth.AssemblyInfoInputs.cache
+C:\Users\Trevor\Desktop\WT stuff\CIDM 3312-01\NickNameGeneratorVieth\obj\Debug\netcoreapp2.0\NickNameGeneratorVieth.AssemblyInfo.cs
+C:\Users\Trevor\Desktop\WT stuff\CIDM 3312-01\NickNameGeneratorVieth\obj\Debug\netcoreapp2.0\NickNameGeneratorVieth.dll
+C:\Users\Trevor\Desktop\WT stuff\CIDM 3312-01\NickNameGeneratorVieth\obj\Debug\netcoreapp2.0\NickNameGeneratorVieth.pdb
